@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix eSheba Smart POS \u0026 Retail Management",
+  "description": "Cloud Point of Sale (POS), retail billing, inventory management, customer due ledger (বাকি খাতা), barcode scanner, thermal receipt printing, and store analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
